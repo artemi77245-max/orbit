@@ -1,0 +1,606 @@
+2026-09-29 16:30:36,333 INFO orbit.recognition: Микрофон открыт, Whisper base готов. Устройство: 1
+2026-09-29 16:30:38,435 INFO faster_whisper: Processing audio with duration 00:01.350
+2026-09-29 16:30:39,369 INFO faster_whisper: Detected language 'ru' with probability 0.14
+2026-09-29 16:30:40,489 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 16:30:41,578 INFO faster_whisper: Processing audio with duration 00:01.500
+2026-09-29 16:30:42,527 INFO faster_whisper: Detected language 'pl' with probability 0.37
+2026-09-29 16:30:43,594 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 16:30:43,635 INFO faster_whisper: Processing audio with duration 00:01.450
+2026-09-29 16:30:44,502 INFO faster_whisper: Detected language 'ru' with probability 0.83
+2026-09-29 16:30:47,969 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 16:30:49,385 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 16:30:50,437 WARNING orbit.speech: Fish Audio недоступен: 402 Client Error: Payment Required for url: https://api.fish.audio/v1/tts/stream/with-timestamp
+2026-09-29 16:31:24,685 INFO orbit.recognition: Микрофон открыт, Whisper base готов. Устройство: 1
+2026-09-29 16:31:53,746 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:31:54,734 INFO faster_whisper: Detected language 'tr' with probability 0.41
+2026-09-29 16:31:55,860 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 16:31:58,002 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 16:31:59,792 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 16:32:00,757 WARNING orbit.speech: Fish Audio недоступен: 402 Client Error: Payment Required for url: https://api.fish.audio/v1/tts/stream/with-timestamp
+2026-09-29 16:32:19,973 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:32:20,900 INFO faster_whisper: Detected language 'ru' with probability 0.93
+2026-09-29 16:32:21,926 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 16:32:22,860 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 16:32:24,291 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 16:32:25,537 WARNING orbit.speech: Fish Audio недоступен: 402 Client Error: Payment Required for url: https://api.fish.audio/v1/tts/stream/with-timestamp
+2026-09-29 16:32:45,086 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:32:46,066 INFO faster_whisper: Detected language 'en' with probability 0.29
+2026-09-29 16:32:55,190 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:32:56,103 INFO faster_whisper: Detected language 'en' with probability 0.27
+2026-09-29 16:33:05,262 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:33:06,440 INFO faster_whisper: Detected language 'nn' with probability 0.26
+2026-09-29 16:33:29,998 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:33:31,047 INFO faster_whisper: Detected language 'ru' with probability 0.31
+2026-09-29 16:33:32,148 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 16:33:33,088 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 16:33:34,725 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 16:33:35,822 WARNING orbit.speech: Fish Audio недоступен: 402 Client Error: Payment Required for url: https://api.fish.audio/v1/tts/stream/with-timestamp
+2026-09-29 16:33:54,725 INFO faster_whisper: Processing audio with duration 00:02.800
+2026-09-29 16:33:55,900 INFO faster_whisper: Detected language 'en' with probability 0.35
+2026-09-29 16:33:59,455 INFO faster_whisper: Processing audio with duration 00:02.650
+2026-09-29 16:34:00,567 INFO faster_whisper: Detected language 'en' with probability 0.20
+2026-09-29 16:34:08,268 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:34:08,531 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:34:09,434 INFO faster_whisper: Detected language 'pl' with probability 0.30
+2026-09-29 16:34:13,338 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:34:17,521 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:34:18,558 INFO faster_whisper: Detected language 'en' with probability 0.27
+2026-09-29 16:34:27,568 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:34:28,463 INFO faster_whisper: Detected language 'en' with probability 0.23
+2026-09-29 16:34:37,691 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:34:38,718 INFO faster_whisper: Detected language 'en' with probability 0.28
+2026-09-29 16:34:47,730 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:34:48,692 INFO faster_whisper: Detected language 'en' with probability 0.23
+2026-09-29 16:34:57,798 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:34:58,859 INFO faster_whisper: Detected language 'en' with probability 0.24
+2026-09-29 16:35:06,172 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:07,876 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:35:08,954 INFO faster_whisper: Detected language 'ru' with probability 0.38
+2026-09-29 16:35:19,497 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:19,604 INFO faster_whisper: Processing audio with duration 00:01.300
+2026-09-29 16:35:20,634 INFO faster_whisper: Detected language 'en' with probability 0.38
+2026-09-29 16:35:24,378 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:24,661 INFO faster_whisper: Processing audio with duration 00:09.900
+2026-09-29 16:35:25,750 INFO faster_whisper: Detected language 'ru' with probability 0.83
+2026-09-29 16:35:32,818 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:33,105 INFO faster_whisper: Processing audio with duration 00:05.700
+2026-09-29 16:35:34,217 INFO faster_whisper: Detected language 'uk' with probability 0.59
+2026-09-29 16:35:35,527 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:35,672 INFO faster_whisper: Processing audio with duration 00:04.150
+2026-09-29 16:35:36,679 INFO faster_whisper: Detected language 'en' with probability 0.15
+2026-09-29 16:35:42,328 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:42,720 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:35:43,844 INFO faster_whisper: Detected language 'ru' with probability 0.87
+2026-09-29 16:35:45,139 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:50,574 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:35:51,645 INFO faster_whisper: Detected language 'ru' with probability 0.95
+2026-09-29 16:35:52,840 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:35:59,668 INFO faster_whisper: Processing audio with duration 00:09.100
+2026-09-29 16:36:00,713 INFO faster_whisper: Detected language 'ru' with probability 0.69
+2026-09-29 16:36:16,226 INFO faster_whisper: Processing audio with duration 00:08.000
+2026-09-29 16:36:17,313 INFO faster_whisper: Detected language 'ru' with probability 0.68
+2026-09-29 16:36:18,874 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:36:19,950 INFO faster_whisper: Detected language 'ru' with probability 0.71
+2026-09-29 16:36:32,425 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:36:33,421 INFO faster_whisper: Detected language 'ru' with probability 0.68
+2026-09-29 16:36:50,480 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:36:50,758 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:36:51,771 INFO faster_whisper: Detected language 'ru' with probability 0.48
+2026-09-29 16:36:53,501 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:36:53,785 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:36:54,828 INFO faster_whisper: Detected language 'ru' with probability 0.70
+2026-09-29 16:37:01,874 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:37:02,866 INFO faster_whisper: Detected language 'ru' with probability 0.60
+2026-09-29 16:37:04,213 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:37:12,228 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:37:13,298 INFO faster_whisper: Detected language 'hi' with probability 0.17
+2026-09-29 16:37:43,896 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:37:44,082 INFO faster_whisper: Processing audio with duration 00:04.550
+2026-09-29 16:37:45,057 INFO faster_whisper: Detected language 'fr' with probability 0.30
+2026-09-29 16:37:52,489 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:37:52,790 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:37:53,788 INFO faster_whisper: Detected language 'en' with probability 0.26
+2026-09-29 16:37:55,403 INFO faster_whisper: Processing audio with duration 00:01.200
+2026-09-29 16:37:56,441 INFO faster_whisper: Detected language 'en' with probability 0.63
+2026-09-29 16:37:57,742 INFO faster_whisper: Processing audio with duration 00:05.450
+2026-09-29 16:37:58,802 INFO faster_whisper: Detected language 'en' with probability 0.24
+2026-09-29 16:38:07,603 INFO faster_whisper: Processing audio with duration 00:08.500
+2026-09-29 16:38:08,629 INFO faster_whisper: Detected language 'ar' with probability 0.13
+2026-09-29 16:38:30,327 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:38:30,644 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:38:31,708 INFO faster_whisper: Detected language 'ru' with probability 0.39
+2026-09-29 16:38:52,691 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:38:52,954 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:38:53,955 INFO faster_whisper: Detected language 'en' with probability 0.17
+2026-09-29 16:38:55,755 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:38:56,036 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:38:57,035 INFO faster_whisper: Detected language 'en' with probability 0.26
+2026-09-29 16:39:05,675 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:39:06,678 INFO faster_whisper: Detected language 'en' with probability 0.24
+2026-09-29 16:39:13,030 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:39:14,084 INFO faster_whisper: Detected language 'en' with probability 0.21
+2026-09-29 16:39:23,091 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:39:24,134 INFO faster_whisper: Detected language 'nn' with probability 0.22
+2026-09-29 16:39:42,611 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:39:43,700 INFO faster_whisper: Detected language 'en' with probability 0.27
+2026-09-29 16:39:57,564 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:39:58,631 INFO faster_whisper: Detected language 'ja' with probability 0.27
+2026-09-29 16:40:03,645 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:40:03,935 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:40:05,002 INFO faster_whisper: Detected language 'en' with probability 0.21
+2026-09-29 16:40:07,776 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:40:08,777 INFO faster_whisper: Detected language 'jw' with probability 0.23
+2026-09-29 16:40:28,323 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:40:29,354 INFO faster_whisper: Detected language 'ru' with probability 0.32
+2026-09-29 16:40:47,962 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:40:49,070 INFO faster_whisper: Detected language 'jw' with probability 0.19
+2026-09-29 16:41:11,110 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:41:12,075 INFO faster_whisper: Detected language 'nn' with probability 0.27
+2026-09-29 16:41:35,068 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:41:36,056 INFO faster_whisper: Detected language 'en' with probability 0.28
+2026-09-29 16:41:39,708 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:41:40,775 INFO faster_whisper: Detected language 'en' with probability 0.18
+2026-09-29 16:41:52,270 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:41:52,565 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:41:53,579 INFO faster_whisper: Detected language 'ro' with probability 0.13
+2026-09-29 16:42:15,911 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:42:16,991 INFO faster_whisper: Detected language 'en' with probability 0.25
+2026-09-29 16:42:25,604 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:42:26,630 INFO faster_whisper: Detected language 'jw' with probability 0.18
+2026-09-29 16:42:49,701 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:42:50,702 INFO faster_whisper: Detected language 'nn' with probability 0.30
+2026-09-29 16:43:09,685 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:43:10,759 INFO faster_whisper: Detected language 'jw' with probability 0.24
+2026-09-29 16:43:12,121 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:43:12,385 INFO faster_whisper: Processing audio with duration 00:09.650
+2026-09-29 16:43:13,472 INFO faster_whisper: Detected language 'nn' with probability 0.30
+2026-09-29 16:43:34,940 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:43:35,233 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:43:36,319 INFO faster_whisper: Detected language 'ru' with probability 0.67
+2026-09-29 16:43:37,559 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:43:37,832 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:43:38,899 INFO faster_whisper: Detected language 'tr' with probability 0.35
+2026-09-29 16:43:44,026 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:43:45,179 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:43:46,250 INFO faster_whisper: Detected language 'en' with probability 0.27
+2026-09-29 16:43:55,224 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:43:56,205 INFO faster_whisper: Detected language 'nn' with probability 0.24
+2026-09-29 16:44:21,682 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:44:21,988 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:44:22,981 INFO faster_whisper: Detected language 'en' with probability 0.22
+2026-09-29 16:44:28,957 INFO faster_whisper: Processing audio with duration 00:05.500
+2026-09-29 16:44:30,007 INFO faster_whisper: Detected language 'en' with probability 0.53
+2026-09-29 16:44:34,526 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:44:34,830 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:44:35,897 INFO faster_whisper: Detected language 'en' with probability 0.11
+2026-09-29 16:44:37,551 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:44:37,810 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:44:38,881 INFO faster_whisper: Detected language 'en' with probability 0.37
+2026-09-29 16:44:43,632 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:44:47,836 INFO faster_whisper: Processing audio with duration 00:10.150
+2026-09-29 16:44:48,893 INFO faster_whisper: Detected language 'en' with probability 0.31
+2026-09-29 16:44:57,936 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:44:58,914 INFO faster_whisper: Detected language 'jw' with probability 0.16
+2026-09-29 16:45:20,954 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 16:45:22,026 INFO faster_whisper: Detected language 'jw' with probability 0.28
+2026-09-29 16:45:23,340 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:45:23,533 INFO faster_whisper: Processing audio with duration 00:05.200
+2026-09-29 16:45:24,598 INFO faster_whisper: Detected language 'en' with probability 0.21
+2026-09-29 16:45:32,798 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 16:45:33,104 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:45:34,173 INFO faster_whisper: Detected language 'jw' with probability 0.23
+2026-09-29 16:45:53,268 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 16:45:54,498 INFO faster_whisper: Detected language 'jw' with probability 0.20
+2026-09-29 18:17:26,559 INFO orbit.recognition: Быстрая активация Vosk готова: C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\models\vosk-model-small-ru-0.22
+2026-09-29 18:17:28,792 INFO orbit.recognition: Микрофон открыт, Whisper base готов. Устройство: 1
+2026-09-29 18:17:29,779 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:17:38,997 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 18:17:40,070 INFO faster_whisper: Detected language 'ru' with probability 0.96
+2026-09-29 18:17:41,307 INFO orbit.recognition: Whisper обработал фразу за 2.39 с
+2026-09-29 18:17:41,307 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:17:43,809 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:17:45,047 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:17:45,056 INFO __main__: ИИ ответил за 3.75 с
+2026-09-29 18:17:45,915 WARNING orbit.speech: Fish Audio недоступен: 402 Client Error: Payment Required for url: https://api.fish.audio/v1/tts/stream/with-timestamp
+2026-09-29 18:17:47,076 INFO orbit.speech: Edge TTS: первый звук через 0.64 с
+2026-09-29 18:17:51,197 INFO __main__: Озвучка Edge TTS завершена за 6.14 с
+2026-09-29 18:17:56,947 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:18:01,287 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 18:18:02,217 INFO faster_whisper: Detected language 'ru' with probability 0.90
+2026-09-29 18:18:03,324 INFO orbit.recognition: Whisper обработал фразу за 2.11 с
+2026-09-29 18:18:03,324 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:18:09,380 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:18:11,378 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 18:18:12,358 INFO faster_whisper: Detected language 'ru' with probability 0.68
+2026-09-29 18:18:13,557 INFO orbit.recognition: Whisper обработал фразу за 2.25 с
+2026-09-29 18:18:13,557 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:18:17,145 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:18:21,436 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 18:18:22,355 INFO faster_whisper: Detected language 'ru' with probability 0.69
+2026-09-29 18:18:23,867 INFO orbit.recognition: Whisper обработал фразу за 2.50 с
+2026-09-29 18:18:23,867 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:18:31,540 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 18:18:32,589 INFO faster_whisper: Detected language 'ru' with probability 0.83
+2026-09-29 18:18:37,980 INFO orbit.recognition: Whisper обработал фразу за 6.51 с
+2026-09-29 18:18:37,980 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:18:41,637 INFO faster_whisper: Processing audio with duration 00:10.100
+2026-09-29 18:18:42,554 INFO faster_whisper: Detected language 'ru' with probability 0.89
+2026-09-29 18:18:55,759 INFO orbit.recognition: Быстрая активация Vosk готова: C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\models\vosk-model-small-ru-0.22
+2026-09-29 18:18:57,475 INFO orbit.recognition: Микрофон открыт, Whisper base готов. Устройство: 1
+2026-09-29 18:19:34,850 INFO orbit.recognition: Быстрая активация Vosk готова: C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\models\vosk-model-small-ru-0.22
+2026-09-29 18:19:35,684 INFO orbit.recognition: Микрофон открыт, Whisper base готов. Устройство: 1
+2026-09-29 18:19:45,967 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 18:19:46,865 INFO faster_whisper: Detected language 'ru' with probability 0.95
+2026-09-29 18:19:47,865 INFO orbit.recognition: Whisper обработал фразу за 1.94 с
+2026-09-29 18:19:47,865 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:19:50,143 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:19:58,336 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:19:58,355 INFO __main__: ИИ ответил за 10.50 с
+2026-09-29 18:19:59,423 WARNING orbit.speech: Fish Audio недоступен: 402 Client Error: Payment Required for url: https://api.fish.audio/v1/tts/stream/with-timestamp
+2026-09-29 18:20:02,199 INFO orbit.speech: Edge TTS: первый звук через 2.25 с
+2026-09-29 18:20:05,993 INFO __main__: Озвучка Edge TTS завершена за 7.64 с
+2026-09-29 18:20:16,093 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 18:20:17,076 INFO faster_whisper: Detected language 'ru' with probability 0.43
+2026-09-29 18:20:37,218 INFO orbit.recognition: Whisper обработал фразу за 21.19 с
+2026-09-29 18:20:37,221 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:20:38,107 INFO faster_whisper: Processing audio with duration 00:10.050
+2026-09-29 18:20:39,228 INFO faster_whisper: Detected language 'ru' with probability 0.91
+2026-09-29 18:38:18,916 INFO orbit.recognition: Vosk загружает модель: C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\models\vosk-model-small-ru-0.22
+2026-09-29 18:38:19,836 INFO orbit.recognition: Быстрая активация Vosk готова
+2026-09-29 18:38:19,899 INFO orbit.recognition: Микрофон открыт, распознавание vosk готово. Устройство: 1
+2026-09-29 18:38:24,474 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:38:31,566 INFO orbit.recognition: Vosk обработал фразу за 1.48 с
+2026-09-29 18:38:31,566 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:38:34,036 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:38:35,199 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:38:35,219 INFO __main__: ИИ ответил за 3.66 с
+2026-09-29 18:38:37,879 INFO orbit.speech: Fish Audio: первый звук через 2.55 с
+2026-09-29 18:38:39,522 INFO __main__: Озвучка Fish Audio Free завершена за 4.19 с
+2026-09-29 18:38:43,226 INFO orbit.recognition: Vosk обработал фразу за 1.03 с
+2026-09-29 18:38:43,226 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:38:47,166 INFO orbit.recognition: Vosk обработал фразу за 1.08 с
+2026-09-29 18:38:57,917 INFO orbit.recognition: Vosk обработал фразу за 1.11 с
+2026-09-29 18:39:00,456 INFO orbit.recognition: Vosk обработал фразу за 0.45 с
+2026-09-29 18:39:11,306 INFO orbit.recognition: Vosk обработал фразу за 1.26 с
+2026-09-29 18:39:11,306 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:39:16,446 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:39:21,896 INFO orbit.recognition: Vosk обработал фразу за 1.80 с
+2026-09-29 18:39:21,896 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:39:23,958 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:39:29,448 INFO orbit.recognition: Vosk обработал фразу за 1.75 с
+2026-09-29 18:39:29,448 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:39:31,379 INFO orbit.recognition: Vosk обработал фразу за 1.02 с
+2026-09-29 18:39:31,379 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:39:31,831 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:39:42,131 INFO orbit.recognition: Vosk обработал фразу за 1.33 с
+2026-09-29 18:39:42,131 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:39:43,069 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:39:44,600 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:39:44,600 INFO __main__: ИИ ответил за 2.45 с
+2026-09-29 18:39:45,534 INFO orbit.speech: Fish Audio: первый звук через 0.94 с
+2026-09-29 18:39:51,858 INFO __main__: Озвучка Fish Audio Free завершена за 7.26 с
+2026-09-29 18:40:02,605 INFO orbit.recognition: Vosk обработал фразу за 2.25 с
+2026-09-29 18:40:02,605 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:40:13,989 INFO orbit.recognition: Vosk обработал фразу за 3.58 с
+2026-09-29 18:40:13,989 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:40:24,056 INFO orbit.recognition: Vosk обработал фразу за 3.55 с
+2026-09-29 18:40:24,056 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:40:33,096 INFO orbit.recognition: Vosk обработал фразу за 2.49 с
+2026-09-29 18:40:33,096 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:40:44,058 INFO orbit.recognition: Vosk обработал фразу за 3.41 с
+2026-09-29 18:40:44,058 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:40:44,828 INFO orbit.recognition: Vosk обработал фразу за 0.64 с
+2026-09-29 18:40:44,828 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:40:53,909 INFO orbit.recognition: Vosk обработал фразу за 1.75 с
+2026-09-29 18:41:02,585 INFO orbit.recognition: Vosk обработал фразу за 3.24 с
+2026-09-29 18:41:02,586 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:41:03,917 INFO orbit.recognition: Vosk обработал фразу за 1.06 с
+2026-09-29 18:41:18,648 INFO orbit.recognition: Vosk обработал фразу за 6.30 с
+2026-09-29 18:41:18,650 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:41:20,470 INFO orbit.recognition: Vosk обработал фразу за 1.49 с
+2026-09-29 18:41:27,975 INFO orbit.recognition: Vosk обработал фразу за 1.77 с
+2026-09-29 18:41:27,975 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:41:42,299 INFO orbit.recognition: Vosk обработал фразу за 6.03 с
+2026-09-29 18:41:42,299 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:41:49,995 INFO orbit.recognition: Vosk обработал фразу за 3.69 с
+2026-09-29 18:41:59,120 INFO orbit.recognition: Vosk обработал фразу за 2.77 с
+2026-09-29 18:42:09,347 INFO orbit.recognition: Vosk обработал фразу за 2.94 с
+2026-09-29 18:42:19,784 INFO orbit.recognition: Vosk обработал фразу за 4.83 с
+2026-09-29 18:42:19,785 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:42:26,685 INFO orbit.recognition: Vosk обработал фразу за 1.62 с
+2026-09-29 18:42:37,650 INFO orbit.recognition: Vosk обработал фразу за 2.55 с
+2026-09-29 18:42:37,650 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:42:48,440 INFO orbit.recognition: Vosk обработал фразу за 3.23 с
+2026-09-29 18:42:59,888 INFO orbit.recognition: Vosk обработал фразу за 4.58 с
+2026-09-29 18:42:59,888 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:43:09,977 INFO orbit.recognition: Vosk обработал фразу за 4.62 с
+2026-09-29 18:43:09,977 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:43:20,148 INFO orbit.recognition: Vosk обработал фразу за 4.75 с
+2026-09-29 18:43:20,148 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:43:27,246 INFO orbit.recognition: Vosk обработал фразу за 1.73 с
+2026-09-29 18:43:27,246 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:43:36,550 INFO orbit.recognition: Vosk обработал фразу за 0.99 с
+2026-09-29 18:44:12,590 INFO orbit.recognition: Vosk загружает модель: C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\models\vosk-model-small-ru-0.22
+2026-09-29 18:44:14,048 INFO orbit.recognition: Быстрая активация Vosk готова
+2026-09-29 18:44:14,126 INFO orbit.recognition: Микрофон открыт, распознавание vosk готово. Устройство: 1
+2026-09-29 18:44:17,834 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:44:25,693 INFO orbit.recognition: Vosk обработал фразу за 1.44 с
+2026-09-29 18:44:25,693 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:44:28,115 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:44:35,383 INFO orbit.recognition: Vosk обработал фразу за 1.09 с
+2026-09-29 18:44:35,383 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:44:37,343 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:44:38,705 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:44:38,713 INFO __main__: ИИ ответил за 3.33 с
+2026-09-29 18:44:39,924 INFO orbit.speech: Fish Audio: первый звук через 1.20 с
+2026-09-29 18:44:41,976 INFO __main__: Озвучка Fish Audio Free завершена за 3.26 с
+2026-09-29 18:44:55,654 INFO orbit.recognition: Vosk обработал фразу за 3.66 с
+2026-09-29 18:44:55,654 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:03,524 INFO orbit.recognition: Vosk обработал фразу за 1.48 с
+2026-09-29 18:45:03,524 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:03,553 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:45:05,284 INFO orbit.recognition: Vosk обработал фразу за 0.59 с
+2026-09-29 18:45:05,284 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:09,054 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:45:10,149 INFO orbit.recognition: Vosk обработал фразу за 0.91 с
+2026-09-29 18:45:10,149 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:13,106 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:45:21,073 INFO orbit.recognition: Vosk обработал фразу за 1.19 с
+2026-09-29 18:45:21,073 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:29,264 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:45:31,183 INFO orbit.recognition: Vosk обработал фразу за 1.23 с
+2026-09-29 18:45:31,183 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:34,763 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:45:41,524 INFO orbit.recognition: Vosk обработал фразу за 1.39 с
+2026-09-29 18:45:41,524 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:45:43,756 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:45:51,964 INFO orbit.recognition: Vosk обработал фразу за 1.22 с
+2026-09-29 18:45:51,964 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:45:52,594 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:45:53,991 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:45:53,994 INFO __main__: ИИ ответил за 2.03 с
+2026-09-29 18:45:55,027 INFO orbit.speech: Fish Audio: первый звук через 0.94 с
+2026-09-29 18:45:57,399 INFO __main__: Озвучка Fish Audio Free завершена за 3.31 с
+2026-09-29 18:46:01,703 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:46:09,584 INFO orbit.recognition: Vosk обработал фразу за 2.08 с
+2026-09-29 18:46:09,584 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:46:11,102 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:46:19,355 INFO orbit.recognition: Vosk обработал фразу за 1.81 с
+2026-09-29 18:46:19,355 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:46:30,603 INFO orbit.recognition: Vosk обработал фразу за 3.01 с
+2026-09-29 18:46:30,603 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:46:40,886 INFO orbit.recognition: Vosk обработал фразу за 3.16 с
+2026-09-29 18:46:40,886 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:46:49,488 INFO orbit.recognition: Vosk обработал фразу за 1.73 с
+2026-09-29 18:46:49,488 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:46:50,161 INFO orbit.recognition: Vosk обработал фразу за 0.41 с
+2026-09-29 18:46:51,124 INFO orbit.recognition: Vosk обработал фразу за 0.48 с
+2026-09-29 18:47:02,409 INFO orbit.recognition: Vosk обработал фразу за 1.16 с
+2026-09-29 18:47:05,338 INFO orbit.recognition: Vosk обработал фразу за 0.66 с
+2026-09-29 18:47:05,338 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:47:12,753 INFO orbit.recognition: Vosk обработал фразу за 1.06 с
+2026-09-29 18:47:16,557 INFO orbit.recognition: Vosk обработал фразу за 0.91 с
+2026-09-29 18:47:27,677 INFO orbit.recognition: Vosk обработал фразу за 1.33 с
+2026-09-29 18:47:27,677 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:47:32,041 INFO orbit.recognition: Vosk обработал фразу за 0.80 с
+2026-09-29 18:47:32,041 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:47:34,859 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:47:43,393 INFO orbit.recognition: Vosk обработал фразу за 1.25 с
+2026-09-29 18:47:43,393 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:47:44,163 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:47:45,526 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:47:45,526 INFO __main__: ИИ ответил за 2.14 с
+2026-09-29 18:47:50,814 INFO orbit.speech: Fish Audio: первый звук через 5.25 с
+2026-09-29 18:47:52,863 INFO __main__: Озвучка Fish Audio Free завершена за 7.30 с
+2026-09-29 18:47:55,956 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:48:03,954 INFO orbit.recognition: Vosk обработал фразу за 1.95 с
+2026-09-29 18:48:03,954 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:48:08,961 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:48:13,943 INFO orbit.recognition: Vosk обработал фразу за 1.64 с
+2026-09-29 18:48:13,943 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:48:14,513 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:48:15,685 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:48:15,693 INFO __main__: ИИ ответил за 1.75 с
+2026-09-29 18:48:17,046 WARNING orbit.speech: Fish Audio недоступен: Unterminated string starting at: line 1 column 54646 (char 54645)
+2026-09-29 18:48:17,046 WARNING orbit.speech: Piper недоступен: No module named 'piper'
+2026-09-29 18:48:20,465 WARNING orbit.speech: Потоковое Edge TTS недоступно, пробую обычное: No audio was received. Please verify that your parameters are correct.
+2026-09-29 18:48:24,133 INFO orbit.speech: Edge TTS подготовил полный звук за 3.67 с
+2026-09-29 18:48:27,917 INFO __main__: Озвучка Edge TTS завершена за 12.24 с
+2026-09-29 18:48:32,255 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:48:36,638 INFO orbit.recognition: Vosk обработал фразу за 0.95 с
+2026-09-29 18:48:36,638 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:48:39,363 INFO orbit.recognition: Vosk обработал фразу за 0.72 с
+2026-09-29 18:48:39,363 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:48:42,158 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:48:43,670 INFO orbit.recognition: Vosk обработал фразу за 0.72 с
+2026-09-29 18:48:43,670 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:48:45,257 INFO orbit.recognition: Vosk обработал фразу за 0.52 с
+2026-09-29 18:48:45,986 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:48:53,278 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:48:53,281 INFO __main__: ИИ ответил за 8.01 с
+2026-09-29 18:48:54,414 INFO orbit.speech: Fish Audio: первый звук через 1.09 с
+2026-09-29 18:48:55,936 INFO __main__: Озвучка Fish Audio Free завершена за 2.61 с
+2026-09-29 18:49:08,615 INFO orbit.recognition: Vosk обработал фразу за 2.61 с
+2026-09-29 18:49:08,616 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:49:09,620 INFO orbit.recognition: Vosk обработал фразу за 0.53 с
+2026-09-29 18:49:10,158 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:49:20,353 INFO orbit.recognition: Vosk обработал фразу за 1.17 с
+2026-09-29 18:49:20,353 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:49:21,033 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:49:25,017 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:49:25,020 INFO __main__: ИИ ответил за 4.66 с
+2026-09-29 18:49:26,269 INFO orbit.speech: Fish Audio: первый звук через 1.25 с
+2026-09-29 18:49:29,367 INFO __main__: Озвучка Fish Audio Free завершена за 4.36 с
+2026-09-29 18:49:41,394 INFO orbit.recognition: Vosk обработал фразу за 1.99 с
+2026-09-29 18:49:41,394 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:49:42,206 INFO orbit.recognition: Vosk обработал фразу за 0.56 с
+2026-09-29 18:49:42,206 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:49:58,804 INFO orbit.recognition: Vosk загружает модель: C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\models\vosk-model-small-ru-0.22
+2026-09-29 18:49:59,613 INFO orbit.recognition: Быстрая активация Vosk готова
+2026-09-29 18:49:59,692 INFO orbit.recognition: Микрофон открыт, распознавание vosk готово. Устройство: None
+2026-09-29 18:50:00,749 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:50:11,108 INFO orbit.recognition: Vosk обработал фразу за 1.30 с
+2026-09-29 18:50:11,108 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:50:13,218 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:50:21,218 INFO orbit.recognition: Vosk обработал фразу за 1.36 с
+2026-09-29 18:50:21,218 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:50:22,584 INFO orbit.recognition: Vosk обработал фразу за 0.67 с
+2026-09-29 18:50:22,584 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:50:26,848 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:50:28,292 INFO orbit.recognition: Vosk обработал фразу за 0.64 с
+2026-09-29 18:50:28,292 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:50:33,899 INFO orbit.recognition: Vosk обработал фразу за 0.70 с
+2026-09-29 18:50:35,738 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:50:49,220 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:50:49,228 INFO __main__: ИИ ответил за 15.33 с
+2026-09-29 18:50:50,122 WARNING orbit.speech: Fish Audio недоступен: Unterminated string starting at: line 1 column 54646 (char 54645)
+2026-09-29 18:50:50,124 WARNING orbit.speech: Piper недоступен: No module named 'piper'
+2026-09-29 18:50:53,454 INFO orbit.speech: Edge TTS: первый звук через 2.66 с
+2026-09-29 18:50:56,908 INFO __main__: Озвучка Edge TTS завершена за 7.67 с
+2026-09-29 18:50:58,708 INFO orbit.recognition: Vosk обработал фразу за 0.39 с
+2026-09-29 18:51:06,590 INFO orbit.recognition: Vosk обработал фразу за 0.58 с
+2026-09-29 18:51:11,890 INFO orbit.recognition: Vosk обработал фразу за 0.56 с
+2026-09-29 18:51:14,268 INFO orbit.recognition: Vosk обработал фразу за 0.64 с
+2026-09-29 18:51:16,300 INFO orbit.recognition: Vosk обработал фразу за 0.42 с
+2026-09-29 18:51:17,194 INFO orbit.recognition: Vosk обработал фразу за 0.48 с
+2026-09-29 18:51:21,401 INFO orbit.recognition: Vosk обработал фразу за 0.64 с
+2026-09-29 18:51:33,228 INFO orbit.recognition: Vosk обработал фразу за 0.72 с
+2026-09-29 18:51:38,371 INFO orbit.recognition: Vosk обработал фразу за 0.66 с
+2026-09-29 18:51:48,269 INFO orbit.recognition: Vosk обработал фразу за 0.64 с
+2026-09-29 18:51:50,530 INFO orbit.recognition: Vosk обработал фразу за 0.51 с
+2026-09-29 18:51:56,488 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:51:57,394 INFO orbit.recognition: Vosk обработал фразу за 0.58 с
+2026-09-29 18:51:57,394 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:52:00,918 INFO orbit.recognition: Vosk обработал фразу за 0.80 с
+2026-09-29 18:52:01,746 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:52:03,453 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:52:03,459 INFO __main__: ИИ ответил за 2.53 с
+2026-09-29 18:52:04,921 INFO orbit.speech: Fish Audio: первый звук через 1.38 с
+2026-09-29 18:52:06,973 INFO __main__: Озвучка Fish Audio Free завершена за 3.42 с
+2026-09-29 18:52:08,435 INFO orbit.recognition: Vosk обработал фразу за 0.31 с
+2026-09-29 18:52:18,449 INFO orbit.recognition: Vosk обработал фразу за 0.73 с
+2026-09-29 18:52:18,449 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:52:21,391 INFO orbit.recognition: Vosk обработал фразу за 0.56 с
+2026-09-29 18:52:21,391 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:52:22,584 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:52:23,239 INFO orbit.recognition: Vosk обработал фразу за 0.47 с
+2026-09-29 18:52:23,239 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:52:33,528 INFO orbit.recognition: Vosk обработал фразу за 1.91 с
+2026-09-29 18:52:34,378 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:52:52,298 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 504 Gateway Timeout"
+2026-09-29 18:52:52,302 ERROR __main__: Ошибка команды
+Traceback (most recent call last):
+  File "C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\orbit\worker.py", line 113, in process
+    decision = ask(query, settings)
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\orbit\brain.py", line 53, in ask
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 6331, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 4767, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 1605, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 1398, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 1375, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\errors.py", line 155, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\errors.py", line 186, in raise_error
+    raise ServerError(status_code, response_json, response)
+google.genai.errors.ServerError: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-09-29 18:52:55,299 INFO orbit.recognition: Vosk обработал фразу за 0.42 с
+2026-09-29 18:52:57,070 INFO orbit.recognition: Vosk обработал фразу за 0.56 с
+2026-09-29 18:52:57,070 INFO orbit.recognition: Речь распознана, но кодовая фраза не найдена
+2026-09-29 18:53:01,493 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:53:02,536 INFO orbit.recognition: Vosk обработал фразу за 0.66 с
+2026-09-29 18:53:02,536 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:53:06,017 INFO orbit.recognition: Vosk обработал фразу за 1.09 с
+2026-09-29 18:53:06,797 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:53:08,562 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-09-29 18:53:08,568 INFO __main__: ИИ ответил за 2.55 с
+2026-09-29 18:53:09,517 INFO orbit.speech: Fish Audio: первый звук через 0.95 с
+2026-09-29 18:53:12,211 INFO __main__: Озвучка Fish Audio Free завершена за 3.66 с
+2026-09-29 18:53:18,231 INFO orbit.recognition: Vosk обработал фразу за 0.50 с
+2026-09-29 18:53:21,591 INFO orbit.recognition: Кодовое слово предварительно услышал Vosk
+2026-09-29 18:53:22,619 INFO orbit.recognition: Vosk обработал фразу за 0.80 с
+2026-09-29 18:53:22,619 INFO orbit.recognition: Кодовая фраза распознана
+2026-09-29 18:53:28,531 INFO orbit.recognition: Vosk обработал фразу за 1.09 с
+2026-09-29 18:53:29,423 INFO google_genai.models: AFC is enabled with max remote calls: 10.
+2026-09-29 18:53:48,578 INFO httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 504 Gateway Timeout"
+2026-09-29 18:53:48,581 ERROR __main__: Ошибка команды
+Traceback (most recent call last):
+  File "C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\orbit\worker.py", line 113, in process
+    decision = ask(query, settings)
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\Downloads\orbit_assistant\orbit_assistant\orbit\brain.py", line 53, in ask
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 6331, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 4767, in _generate_content
+    response = self._api_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 1605, in request
+    response = self._request(http_request, http_options, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 1398, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 1375, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\errors.py", line 155, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "C:\Users\artem\AppData\Roaming\Python\Python312\site-packages\google\genai\errors.py", line 186, in raise_error
+    raise ServerError(status_code, response_json, response)
+google.genai.errors.ServerError: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-09-29 18:53:52,965 INFO orbit.recognition: Vosk обработал фразу за 0.53 с
+2026-09-29 18:53:59,548 INFO orbit.recognition: Vosk обработал фразу за 0.41 с
+2026-09-29 18:54:01,569 INFO orbit.recognition: Vosk обработал фразу за 0.39 с
